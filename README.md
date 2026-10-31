@@ -1,67 +1,97 @@
- <!-- ============================================================ -->
-<!-- BHASKAR JYOTI DEKA | CLOUD ENGINEERING + DEVSECOPS PROFILE   -->
-<!-- Profile: Bhaskar Jyoti Deka | Assam, India -->
-<!-- ============================================================ -->
-
+ <!-- Custom GitHub-safe SVG artwork lives in /assets. -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0c4a6e,100:7c3aed&height=250&section=header&text=BHASKAR%20JYOTI%20DEKA&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Cloud%20Engineering%20%7C%20DevSecOps%20%7C%20Infrastructure%20as%20Code&descSize=18&descAlignY=59&animation=fadeIn" alt="Bhaskar Jyoti Deka - Cloud and DevSecOps" />
+<img src="assets/hero.svg" width="100%" alt="Bhaskar Jyoti Deka — Cloud Engineering and DevSecOps" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Hello%2C+I'm+Bhaskar+Jyoti+Deka+%F0%9F%91%8B;Cloud+Engineering+%2B+DevSecOps+Enthusiast;Building+Secure+Multi-Stage+CI%2FCD+Pipelines;Automating+Azure+Infrastructure+with+Terraform;Learning+%7C+Building+%7C+Securing+%7C+Improving" alt="Animated role introduction" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&height=65&lines=Azure+Cloud+%7C+Terraform+%7C+DevSecOps;Secure+CI%2FCD+Pipelines+%7C+Infrastructure+as+Code;Automate+%E2%86%92+Scan+%E2%86%92+Approve+%E2%86%92+Deploy;Always+Learning+%E2%80%A2+Always+Building" alt="Animated cloud engineering introduction" />
 
-<br />
+<a href="https://github.com/bhaskardeka-cloud"><img src="https://img.shields.io/badge/GITHUB-bhaskardeka--cloud-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/bhaskar-jyoti-deka6/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bjyotideka22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=bhaskardeka-cloud&style=for-the-badge&color=7c3aed&label=VISITORS" alt="Profile views" />
 
-<a href="https://github.com/bhaskardeka-cloud"><img src="https://img.shields.io/badge/GitHub-bhaskardeka--cloud-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/bhaskardeka-cloud?tab=followers"><img src="https://img.shields.io/github/followers/bhaskardeka-cloud?style=for-the-badge&logo=github&label=Followers&color=0e7490" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=bhaskardeka-cloud&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+**DevSecOps & Cloud Infrastructure Engineer** · 📍 Assam, India
 
-<br /><br />
+[✉️ Email](mailto:bjyotideka22@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/bhaskar-jyoti-deka6/) · [☎️ Phone](tel:+918876280335)
 
-**`☁️ CLOUD`** &nbsp; **`⚙️ AUTOMATION`** &nbsp; **`🔐 SECURITY`** &nbsp; **`🚀 DELIVERY`**
+<sub>☁️ CLOUD ENGINEERING &nbsp; • &nbsp; 🛡️ SECURITY BY DESIGN &nbsp; • &nbsp; ⚙️ AUTOMATION FIRST</sub>
 
 </div>
 
 ---
 
-**DevSecOps & Cloud Infrastructure Engineer** · Assam, India
+### 🧭 Explore my profile
 
-📧 **bjyotideka22@gmail.com** · 📞 **+91 8876280335** · [LinkedIn](https://www.linkedin.com/in/bhaskar-jyoti-deka6/)
+<div align="center">
+<a href="#-the-engineer-behind-the-terminal">About</a> &nbsp;•&nbsp;
+<a href="#️-engineering-toolbox">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#-featured-engineering-work">Projects</a> &nbsp;•&nbsp;
+<a href="#-github-analytics">GitHub Stats</a> &nbsp;•&nbsp;
+<a href="#-cloud--devsecops-engineering-handbook">Engineering Notes</a>
+</div>
 
-## 👨‍💻 About me
+## ✦ The engineer behind the terminal
 
-```yaml
-name: Bhaskar Jyoti Deka
-education: B.Tech | Computer Science
-focus:
-  - Cloud Engineering
-  - DevSecOps
-  - Infrastructure as Code
-cloud_platform: Microsoft Azure
-infrastructure: Terraform
-ci_cd:
-  - Azure DevOps YAML Pipelines
-  - GitHub Actions
-source_control:
-  - Git
-  - GitHub
-  - Azure Repos
-security_and_quality:
-  - Checkov
-  - Gitleaks
-  - TFLint
-  - tfsec
-cost_visibility: Infracost
-operating_system: Linux
-mindset: Learn → Build → Automate → Secure → Improve
-```
+<div align="center">
 
-I'm a **Computer Science student** focused on **Cloud Engineering and DevSecOps**. I enjoy turning manual infrastructure tasks into repeatable workflows, designing **multi-stage CI/CD pipelines**, and bringing security and cost checks closer to the development process.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=From+an+idea+to+infrastructure+as+code;From+commits+to+secure+deployments;From+manual+tasks+to+repeatable+automation" alt="Engineering philosophy animation" />
 
-- 🔭 **Building:** Azure infrastructure automation and YAML-based delivery pipelines.
-- 🌱 **Learning:** Cloud security, DevSecOps practices, and production-minded automation.
-- 🧩 **Interested in:** Infrastructure as Code, CI/CD, Azure networking, and secure delivery.
-- 💬 **Let's talk about:** Terraform, Azure, Git, Linux, GitHub Actions, and Azure DevOps.
-- 🎯 **Goal:** Grow into a capable Cloud / DevSecOps Engineer through hands-on projects.
+**Building cloud infrastructure that is repeatable, secure, and easier to operate.**
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### 👋 Hey, I'm Bhaskar
+
+I'm a **B.Tech Computer Science student** from **Assam, India**, focused on **Microsoft Azure, Infrastructure as Code, and DevSecOps**.
+
+I enjoy building practical cloud projects: provisioning resources with **Terraform**, automating delivery with **Azure DevOps YAML pipelines**, and shifting **security and cost checks** earlier into CI/CD.
+
+I care about **clean automation, visible deployment decisions, and continuous learning** — not just collecting tool badges.
+
+**Currently exploring**
+
+- ☁️ Azure cloud infrastructure and networking
+- 🏗️ Terraform modules, state, and environment workflows
+- 🔐 Checkov, Gitleaks, TFLint, and tfsec
+- 🔁 Branch-aware multi-stage pipelines and approvals
+- 💸 Infracost for infrastructure cost visibility
+
+</td>
+<td width="42%" valign="top">
+
+### ⚡ Quick profile
+
+| | |
+|:--|:--|
+| 📍 Based in | Assam, India |
+| 🎓 Education | B.Tech · Computer Science |
+| ☁️ Cloud | Microsoft Azure |
+| 🧱 IaC | Terraform |
+| 🔁 Delivery | Azure DevOps · GitHub Actions |
+| 🛡️ Focus | DevSecOps · Cloud Security |
+| 🐧 Systems | Linux · PowerShell |
+| 🌱 Mode | Always learning |
+
+**My workflow**
+
+`PLAN` → `CODE` → `SCAN` → `DEPLOY` → `IMPROVE`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="mailto:bjyotideka22@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Bhaskar" /></a>
+<a href="https://www.linkedin.com/in/bhaskar-jyoti-deka6/"><img src="https://img.shields.io/badge/PROFESSIONAL%20NETWORK-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+*“Learn deeply. Automate thoughtfully. Secure by design.”*
+
+</div>
 
 ---
 
@@ -100,6 +130,11 @@ I'm a **Computer Science student** focused on **Cloud Engineering and DevSecOps*
 ---
 
 ## 🚀 Featured engineering work
+
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="Cloud DevSecOps pipeline diagram" />
+</div>
+
 
 > Project descriptions summarize hands-on areas of work. Add real repository links when each project is published; no demo links are fabricated here.
 

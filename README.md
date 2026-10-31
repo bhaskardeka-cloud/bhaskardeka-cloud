@@ -10,9 +10,15 @@
 <a href="mailto:bjyotideka22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=bhaskardeka-cloud&style=for-the-badge&color=7c3aed&label=VISITORS" alt="Profile views" />
 
-**DevSecOps & Cloud Infrastructure Engineer** · 📍 Assam, India
+### DevSecOps & Cloud Infrastructure Engineer
 
-[✉️ Email](mailto:bjyotideka22@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/bhaskar-jyoti-deka6/) · [☎️ Phone](tel:+918876280335)
+**Assam, India** · **B.Tech Computer Science** · **Azure | Terraform | Secure CI/CD**
+
+**📧 [bjyotideka22@gmail.com](mailto:bjyotideka22@gmail.com)** &nbsp; | &nbsp; **📱 +91 8876280335**
+
+**💼 [LinkedIn](https://www.linkedin.com/in/bhaskar-jyoti-deka6/)** &nbsp; | &nbsp; **💻 [GitHub](https://github.com/bhaskardeka-cloud)**
+
+<a href="tel:+918876280335"><img src="https://img.shields.io/badge/Call-%2B91%208876280335-155E75?style=for-the-badge&logoColor=white" alt="Call +91 8876280335" /></a>
 
 <sub>☁️ CLOUD ENGINEERING &nbsp; • &nbsp; 🛡️ SECURITY BY DESIGN &nbsp; • &nbsp; ⚙️ AUTOMATION FIRST</sub>
 
@@ -20,17 +26,17 @@
 
 ---
 
-### 🧭 Explore my profile
+### 🧭 Profile navigation
 
 <div align="center">
-<a href="#-the-engineer-behind-the-terminal">About</a> &nbsp;•&nbsp;
-<a href="#️-engineering-toolbox">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#-featured-engineering-work">Projects</a> &nbsp;•&nbsp;
+<a href="#-about-me">About</a> &nbsp;•&nbsp;
+<a href="#️-technical-expertise">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#-selected-projects--practical-experience">Projects</a> &nbsp;•&nbsp;
 <a href="#-github-analytics">GitHub Stats</a> &nbsp;•&nbsp;
 <a href="#-cloud--devsecops-engineering-handbook">Engineering Notes</a>
 </div>
 
-## ✦ The engineer behind the terminal
+## 👨‍💻 About me
 
 <div align="center">
 
@@ -44,13 +50,13 @@
 <tr>
 <td width="58%" valign="top">
 
-### 👋 Hey, I'm Bhaskar
+### 👋 Hello, I’m Bhaskar
 
 I'm a **B.Tech Computer Science student** from **Assam, India**, focused on **Microsoft Azure, Infrastructure as Code, and DevSecOps**.
 
 I enjoy building practical cloud projects: provisioning resources with **Terraform**, automating delivery with **Azure DevOps YAML pipelines**, and shifting **security and cost checks** earlier into CI/CD.
 
-I care about **clean automation, visible deployment decisions, and continuous learning** — not just collecting tool badges.
+My focus is on **repeatable infrastructure, secure delivery pipelines, and practical automation**. I document what I build, validate changes before deployment, and keep improving my cloud engineering skills.
 
 **Currently exploring**
 
@@ -63,7 +69,7 @@ I care about **clean automation, visible deployment decisions, and continuous le
 </td>
 <td width="42%" valign="top">
 
-### ⚡ Quick profile
+### ⚡ At a glance
 
 | | |
 |:--|:--|
@@ -95,7 +101,7 @@ I care about **clean automation, visible deployment decisions, and continuous le
 
 ---
 
-## 🛠️ Engineering toolbox
+## 🛠️ Technical expertise
 
 <div align="center">
 
@@ -129,7 +135,7 @@ I care about **clean automation, visible deployment decisions, and continuous le
 
 ---
 
-## 🚀 Featured engineering work
+## 🚀 Selected projects & practical experience
 
 <div align="center">
 <img src="assets/pipeline.svg" width="100%" alt="Cloud DevSecOps pipeline diagram" />
@@ -942,7 +948,7 @@ git status --short
 - This profile highlights hands-on learning and personal engineering projects.
 - Linked badges and statistics are rendered by external services and may be temporarily unavailable.
 - Featured project links should be updated as public repositories become available.
-- Public contact information was provided for this profile; remove the phone badge if you prefer email-only contact.
+- Contact details are displayed publicly. Remove the phone number if you prefer inquiries by email or LinkedIn.
 
 ---
 
